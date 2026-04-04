@@ -1,7 +1,7 @@
 url: https://saas.vnrobo.com/en/sign-up
-status: up
-code: 200
-responseTime: 801
-lastUpdated: 2026-04-04T10:19:04.591Z
+status: down
+code: 500
+responseTime: 491
+lastUpdated: 2026-04-04T13:54:15.034Z
 startTime: 2026-04-04T03:11:45.038Z
 generator: Upptime <https://github.com/upptime/upptime>
